@@ -1,1 +1,1 @@
-console.log("XSS By hack3r_0")
+alert("XSS By hack3r_0")
