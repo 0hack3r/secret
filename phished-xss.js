@@ -1,1 +1,1 @@
-confirm(document.cookies)
+alert(document.cookies)
